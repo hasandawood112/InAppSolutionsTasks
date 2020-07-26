@@ -300,8 +300,6 @@ h6 {
     font-weight: 600;
     white-space: nowrap;
     letter-spacing: .15em;
-    /* -webkit-animation: typing 2.5s steps(30) infinite, blink-caret .5s step-end infinite;
-    animation: typing 2.5s steps(30) infinite, blink-caret .5s step-end infinite; */
 }
 
 .top-pane {
